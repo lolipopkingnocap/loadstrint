@@ -1,0 +1,238 @@
+print("Script is running")
+local Library = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
+
+function Script()
+local Window = Library.CreateLib("Games Gui", "BloodTheme")
+
+local Main = Window:NewTab("Main")
+local MainSection = Main:NewSection("Main")
+
+MainSection:NewButton("Infinite Yield", "ButtonInfo", function()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'),true))()
+end)
+
+MainSection:NewButton("KeyBoard Script", "ButtonInfo", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt", true))()
+end)
+
+MainSection:NewButton("Fly Script", "ButtonInfo", function()
+loadstring("\108\111\97\100\115\116\114\105\110\103\40\103\97\109\101\58\72\116\116\112\71\101\116\40\40\39\104\116\116\112\115\58\47\47\103\105\115\116\46\103\105\116\104\117\98\117\115\101\114\99\111\110\116\101\110\116\46\99\111\109\47\109\101\111\122\111\110\101\89\84\47\98\102\48\51\55\100\102\102\57\102\48\97\55\48\48\49\55\51\48\52\100\100\100\54\55\102\100\99\100\51\55\48\47\114\97\119\47\101\49\52\101\55\52\102\52\50\53\98\48\54\48\100\102\53\50\51\51\52\51\99\102\51\48\98\55\56\55\48\55\52\101\98\51\99\53\100\50\47\97\114\99\101\117\115\37\50\53\50\48\120\37\50\53\50\48\102\108\121\37\50\53\50\48\50\37\50\53\50\48\111\98\102\108\117\99\97\116\111\114\39\41\44\116\114\117\101\41\41\40\41\10\10")()
+end)
+
+MainSection:NewButton("Universal Hitbox", "ButtonInfo", function()
+loadstring(game:HttpGet("https://scriptblox.com/raw/Universal-Script-Update-script-hitbox-9326"))()
+end)
+
+MainSection:NewButton("Anti Afk", "ButtonInfo", function()
+
+end)
+
+local BloxFruits = Window:NewTab("BloxFruits")
+local BloxFruitsSection = BloxFruits:NewSection("BloxFruits")
+
+BloxFruitsSection:NewButton("MTriet Hub (y)", "ButtonInfo", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Minhtriettt/Free-Script/main/MTriet-Hub.lua"))()
+end)
+
+BloxFruitsSection:NewButton("Blck Hub", "ButtonInfo", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/1f0yt/community/main/BLCK"))()
+end)
+
+BloxFruitsSection:NewButton("Hoho Hub (very good)", "ButtonInfo", function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI'))()
+end)
+
+BloxFruitsSection:NewButton("Sonic Hub", "ButtonInfo", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NickelHUBB/SonicTuru/main/Protected-25.lua"))() 
+end)
+
+BloxFruitsSection:NewButton("Annie Hub", "ButtonInfo", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Anniecuti/Free-Scr/main/Annie-Hub.lua"))()
+end)
+
+BloxFruitsSection:NewButton("Makori", "ButtonInfo", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Domadicoof/Domadicoof/main/NewHubX.txt"))()
+end)
+
+BloxFruitsSection:NewButton("Zen Hub", "ButtonInfo", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ZenHubTheBest/Main/main/Loader", true))() 
+end)
+
+BloxFruitsSection:NewButton("Speed Hub X ", "ButtonInfo", function()
+loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Script%20Game"))()
+end)
+
+BloxFruitsSection:NewButton("Slime X Hub", "ButtonInfo", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Slimexiuem/Slimexhub/main/Slimex-hub"))() 
+end)
+
+BloxFruitsSection:NewButton("Chest Farm", "ButtonInfo", function()
+
+end)
+
+BloxFruitsSection:NewButton("Fruit Finder", "ButtonInfo", function()
+
+end)
+
+BloxFruitsSection:NewButton("Many Guis Script", "ButtonInfo", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/UltraStuff/scripts2/main/bf", true))() 
+end)
+
+
+
+local BladeBall = Window:NewTab("BladeBall")
+local BladeBallSection = BladeBall:NewSection("BladeBall")
+
+BladeBallSection:NewButton("Project Star Hub", "ButtonInfo", function()
+--[[ https://discord.com/invite/YmNvpHVaTd for free permanent key
+Works in :
+Blox fruits
+Grand piece online
+Blade ball
+]]
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/dafaf84829997bec436fdb7849d6ebd5.lua"))() 
+end)
+
+BladeBallSection:NewButton("NeonC Hub", "ButtonInfo", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Neoncat765/Neon.C-Hub-X/main/UnknownVersion"))(); 
+end)
+
+BladeBallSection:NewButton("W Azure Hub", "ButtonInfo", function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/spacex02/scripts/main/blade-ball-25216'))() 
+end)
+
+BladeBallSection:NewButton("EminX Hubv2", "ButtonInfo", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/EminenceXLua/Blade-your-Balls/main/BladeBallLoaderV2.lua"))() 
+end)
+
+
+BladeBallSection:NewButton("Sadlekaski Hub", "ButtonInfo", function()
+loadstring(game:HttpGet("https://github.com/SadlekAski/Scripts/raw/main/Blade%20Ball/Equip%20any%20ability.lua"))() 
+end)
+
+
+BladeBallSection:NewButton("Lumin Hub", "ButtonInfo", function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/No6No6No7yt/Lumin-Hub/main/Blade.lua'))(); 
+end)
+
+BladeBallSection:NewButton("Auto Parry", "ButtonInfo", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kmmwhocare/Crazzy-Hub/main/Blade%20Ball"))() 
+end)
+
+BladeBallSection:NewButton("Many Scripts", "ButtonInfo", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/zippy6349/Blade_Ball/main/Blade%20Ball.txt"))() 
+end)
+
+BladeBallSection:NewButton("Many ScriptsV2", "ButtonInfo", function()
+loadstring(game:HttpGet("https://pastebin.com/raw/GBiFB5kE"))() 
+end)
+
+local BreakIn = Window:NewTab("Break In 2")
+local BreakIn2Section = BreakIn:NewSection("BreakIn2")
+
+BreakIn2Section:NewButton("Blitz Hub", "ButtonInfo", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RScriptz/RobloxScripts/main/BreakIn2.lua"))()
+end)
+
+
+BreakIn2Section:NewButton("Color Hub", "ButtonInfo", function()
+loadstring(game:HttpGet("https://freenote.biz/raw/ScmsS7SwTW",true))()
+end)
+
+local TDI = Window:NewTab("TDI")
+local TDISection = TDI:NewSection("TDI")
+
+TDISection:NewButton("Syn Hub", "ButtonInfo", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kureu/Roblox-T.R.D-Camp-Script/main/Roblox%20T.R.D%20Camp%20Script"))();
+end)
+
+
+local BreakingPoint = Window:NewTab("BreakingPoint")
+local BreakingPointSection = BreakingPoint:NewSection("BreakingPoint")
+
+BreakingPointSection:NewButton("AutoFarm", "ButtonInfo", function()
+getgenv().AutoFarm = true
+loadstring(game:HttpGet('https://raw.githubusercontent.com/1201for/littlegui/main/Breaking-Point'))() 
+end)
+
+BreakingPointSection:NewButton("Fired Hub", "ButtonInfo", function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/tkorra/bp-gui/main/main.lua'))() 
+end)
+
+BreakingPointSection:NewButton("Wheat Hub", "ButtonInfo", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MaGiXxScripter0/wheathub/main/main.lua"))() 
+end)
+
+
+local Simulators = Window:NewTab("Simulators")
+local NinjaLegendsSection = Simulators:NewSection("NinjaLegends")
+
+NinjaLegendsSection:NewButton("SmoxHub", "ButtonInfo", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmoxHub/SmoxHub/main/Ninja%20Legends"))()
+end)
+
+NinjaLegendsSection:NewButton("GalaxyHub", "ButtonInfo", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MHD-444/Galaxy-Hub/main/Galaxy-Loader"))()
+end)
+
+NinjaLegendsSection:NewButton("BlackTrap Hub", "ButtonInfo", function()
+loadstring(game:HttpGetAsync("https://blacktrap.org/checkpoint/Auth.txt"))() 
+end)
+
+local MuscleLegendsSection = Simulators:NewSection("MuscleLegends")
+
+MuscleLegendsSection:NewButton("Demonic Hub", "ButtonInfo", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Alan0947383/Boom/main/Protected_1198219713372149.lua.txt",true))() 
+end)
+
+MuscleLegendsSection:NewButton("Speed Hub X", "ButtonInfo", function()
+loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/ahmadsgamer2/Speed-Hub-X/main/SpeedHubX"))() 
+end)
+
+MuscleLegendsSection:NewButton("Kill People Hub", "ButtonInfo", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sinret/rbxscript.com-scripts-reuploads-/main/ml", true))()   
+end)
+
+local LegendsOfSpeedSection = Simulators:NewSection("LegendsOfSpeed")
+
+LegendsOfSpeedSection:NewButton("Planet Hub", "ButtonInfo", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PlanetHubX/Legends-Of-Speed/main/source", true))() 
+end)
+
+LegendsOfSpeedSection:NewButton("Yuki Hub", "ButtonInfo", function()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/YukiTM/Roblox/main/Legends'),true))() 
+end)
+
+LegendsOfSpeedSection:NewButton("Silver Hub", "ButtonInfo", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/iPigTW/Silver-HUB/main/SilverHub.lua",true))()
+end)
+
+local ArmWrestleSimSection = Simulators:NewSection("ArmWrestleSim")
+
+ArmWrestleSimSection:NewButton("Kenniel Hub", "ButtonInfo", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Kenniel123/Arm-Wrestle-Simulator-Script/main/Arm-Wrestle-Simulator-Script",true))() 
+end)
+
+ArmWrestleSection:NewButton("N3x Hub", "ButtonInfo", function()
+loadstring(game:HttpGetAsync("https://rawscripts.net/raw/Arm-Wrestle-Simulator-N3xHub-AWS-Script-By-N3x-11391", true))(); 
+end)
+
+local DestructionSimSection = Simulators:NewSection("DestructionSim")
+
+DestructionSimSection:NewButton("Proxima Hub", "ButtonInfo", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/Main.lua"))() 
+end)
+
+DestructionSimSection:NewButton("Hecmax Hub", "ButtonInfo", function()
+loadstring(game:HttpGet("https://gist.githubusercontent.com/hecmax/fa308ee4ae77aff86c49e332916c42a1/raw/fd211ed9fd3ecd91717a8ed88322f3b5951e3541/--",true))() 
+end)
+
+local OtherGames = Window:NewTab("OtherGames")
+local OtherGamesSection = OtherGames:NewSection("OtherGames")
+
+OtherGamesSection:NewButton("Crazy Script", "ButtonInfo", function()
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/Yousuck780/weapons/main/cock"), true))() 
+end)
+
+end
+print("Script finished running")
